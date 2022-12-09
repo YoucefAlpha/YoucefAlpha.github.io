@@ -395,12 +395,12 @@ section .title::after{
     width: 60%;
     background: #FF0000;
 }
-.skills-content .right .python::before{
+.skills-content .right .axd::before{
     width: 50%;
     background: #FFFF33;
 }
 .skills-content .right .ap::before{
-    width: 80%;
+    width: 90%;
     background: #000099;
 }
 .skills-content .right .ai::before{
